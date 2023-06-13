@@ -1,2 +1,4 @@
-# Calc
-Calculadora básica C# Winforms
+# Calculadora C# Winforms ✨
+Calculadora básica em C# Winforms
+
+
