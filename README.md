@@ -19,6 +19,7 @@ Com uma paleta de cores simples e um design moderno.
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/carolinelage/Calc/master/Calc.png">
 </picture>
 <br/>
+
 **Instalação**
 
 
